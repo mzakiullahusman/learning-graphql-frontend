@@ -23,7 +23,7 @@ export const Search = () => {
     }
   );
 
-  console.log({ error, loading, data, called });
+  console.log({ called });
 
   return (
     <div>
